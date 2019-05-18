@@ -1,1 +1,1 @@
-# Thermostable_proteins
+Thesis code

@@ -16,7 +16,7 @@ dataset = {
 '2yv2A':'6g4q-A',
 '2yvuA':'6c6b-B',
 '2yzkA':'4rv4-B', 
-'4fn4A,2z1nA':['5x8h-A','6b9u-A','5ts3-A','5tt0-A'],       #therms grouped, not all mesos homologues to both
+'4fn4A,2z1nA':['5x8h-A','6b9u-A','5ts3-A','5tt0-A'],       
 '3ak3A,1wb8A':['5gxo-A','1unf-X'],		
 '1geqA,2ekcA':['6dwe-A','1k3u-A'], 				
 '1j2pA':['1g65-G','4r3o-S'],                      	
@@ -327,6 +327,7 @@ ofile.write(str(frac_results))
 ofile.close()
 					
 '''
+TO SHOW IN PYMOL
 python
 cmd.align('1tyoA', '6c0e-A', object='aln')
 raw_aln = cmd.get_raw_alignment('aln')
@@ -337,6 +338,7 @@ for idx1, idx2 in raw_aln:
 
 python end		
 
+EXAMPLE OUTPUT 
 
 super 
 The fraction of conserved salt bridges between 2e0cA and 6c0e-A is: 0.6

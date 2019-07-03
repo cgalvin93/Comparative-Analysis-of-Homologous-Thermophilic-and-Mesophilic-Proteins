@@ -1,8 +1,4 @@
-'''
-dataset = {
-'1tyoA,2e0cA':'6c0e-A',
-}
-'''
+#GET DISTANCE IN ANGSTROMS BETWEEN ION PAIRING RESIDUES
 
 dataset = {
 '1tyoA,2e0cA':'6c0e-A', 

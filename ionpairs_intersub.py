@@ -1,4 +1,4 @@
-#ipython compare_SB_complexes.py
+#MAIN CODE FOR ANALYZING INTER-SUBUNIT ION PAIRS
 
 #dataset for testing
 '''

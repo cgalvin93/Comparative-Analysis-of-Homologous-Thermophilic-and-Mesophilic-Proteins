@@ -1,3 +1,5 @@
+#Uses the pymol align function to determine structurally equivalent residues in homologous proteins, returns the
+#ion pairing residues that are present in both proteins
 
 import __main__
 __main__.pymol_argv = ['pymol','-qc'] # Pymol: quiet and no GUI

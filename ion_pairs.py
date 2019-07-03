@@ -1,17 +1,6 @@
-#time ipython ion_pairs.py
+#MAIN CODE TO ANALYZE AND REPORT ON FEATURES OF ION PAIRING NETWORKS IN HOMOLOGOUS MESOPHILIC AND THERMOPHILIC PROTEINS
 
 '''
-dataset = {
-'1tyoA,2e0cA':'6c0e-A',
-'5b1yA':['5x8h-A','6b9u-A','5itv-D','5ts3-A','5xtg-B','5tt0-A'],
-'3e70C,5l3vA,1ls1A,2iylD,5l3wA':['6fqd-B','6cy5-B','1zu5-B']
-}
-
-
-#'1vmaA':'6fqd-B',   
-#'3e70C,5l3vA,1ls1A,2iylD,5l3wA':['6fqd-B','6cy5-B','1zu5-B']    #####idk about these, ftsy/signal particle receptor, membrane protein transport
-
-
 
 
 									LARGE DATASET 
@@ -26,7 +15,7 @@ dataset = {
 '2yv2A':'6g4q-A',
 '2yvuA':'6c6b-B',
 '2yzkA':'4rv4-B', 
-'4fn4A,2z1nA':['5x8h-A','6b9u-A','5ts3-A','5tt0-A'],       #therms grouped, not all mesos homologues to both
+'4fn4A,2z1nA':['5x8h-A','6b9u-A','5ts3-A','5tt0-A'],       
 '3ak3A,1wb8A':['5gxo-A','1unf-X'],		
 '1geqA,2ekcA':['6dwe-A','1k3u-A'], 				
 '1j2pA':['1g65-G','4r3o-S'],                      	
